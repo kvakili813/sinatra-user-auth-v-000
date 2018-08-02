@@ -7,4 +7,3 @@ class Users < ActiveRecord::Migration
     end
   end
 end
-
