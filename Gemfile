@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'rake'
 
 group :test do
   gem 'launchy'
